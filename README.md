@@ -3,14 +3,11 @@
 Welcome to my GitHub profile! I'm passionate about technology, development, and continuous learning. Here’s a little bit about me:  
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **[mention your current project or job role]**  
-- 🌱 I’m currently learning **[list technologies, frameworks, or concepts you're studying]**  
-- 👯 I’m looking to collaborate on **[mention areas where you're open to collaboration]**  
-- 🤔 I’m looking for help with **[something you’d like guidance on]**  
-- 💬 Ask me about **[your expertise, e.g., backend development, cloud computing, etc.]**  
-- 📫 How to reach me: **[your email or LinkedIn profile]**  
-- 😄 Pronouns: **[she/her, they/them, etc.]**  
-- ⚡ Fun fact: **[something interesting about you]**  
+Em 2020, por conselho de um professor, comecei a estudar a área de dados. Fiz alguns bootcamps, me identifiquei e decidi aprofundar meus conhecimentos com uma pós-graduação. Tive a oportunidade de atuar por um ano com análise de dados, focando em DataViz, mas minha carreira acabou me levando para a gestão de times de TI. Agora, decidi retomar minha paixão por dados e estou me dedicando ao aprendizado em Engenharia de Dados. Meu foco é construir uma base sólida para, em breve, migrar para essa área, não como gestora, mas como engenheira de dados.
+
+Me acompanhem nessa jornada? Estou aberta a sugestões, mentorias, dicas e, claro, a novas oportunidades! 🚀
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MBON-py.MBON-py)
 
 ## 🛠 Tech Stack  
 
