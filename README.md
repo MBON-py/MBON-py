@@ -1,13 +1,14 @@
 # Hi there! 👋 I'm Maria Benussy  
 
-Welcome to my GitHub profile! I'm passionate about technology, development, and continuous learning. Here’s a little bit about me:  
-
 ## 🚀 About Me  
-Em 2020, por conselho de um professor, comecei a estudar a área de dados. Fiz alguns bootcamps, me identifiquei e decidi aprofundar meus conhecimentos com uma pós-graduação. Tive a oportunidade de atuar por um ano com análise de dados, focando em DataViz, mas minha carreira acabou me levando para a gestão de times de TI. Agora, decidi retomar minha paixão por dados e estou me dedicando ao aprendizado em Engenharia de Dados. Meu foco é construir uma base sólida para, em breve, migrar para essa área, não como gestora, mas como engenheira de dados.
+In 2020, following a professor’s advice, I started studying data. I joined a few bootcamps, really enjoyed the field, and decided to pursue a postgraduate degree in the area. I had the opportunity to work in data analysis for a year, focusing on DataViz, but my career gradually led me towards IT team management.
 
-Me acompanhem nessa jornada? Estou aberta a sugestões, mentorias, dicas e, claro, a novas oportunidades! 🚀
+Now, I’ve decided to reconnect with my passion for data and have been focusing on learning Data Engineering. My goal is to build a strong foundation and transition into this field—not as a manager, but as a data engineer.
+
+Join me on this journey! I’m open to suggestions, mentorship, advice, and, of course, new opportunities!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MBON-py.MBON-py)
+
 
 ## 🛠 Tech Stack  
 
