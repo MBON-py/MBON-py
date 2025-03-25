@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Maria Benussy  
 
 ## 💻 About Me
-In 2020, following a professor’s advice, I started studying data. I joined a few bootcamps, enjoyed the field, and decided to pursue a **postgraduate degree in Data Science**. I had the opportunity to work in data analysis for a year, focusing on **DataViz**, but my career gradually led me towards **IT team management**. 
+I started studying data. I joined a few bootcamps, enjoyed the field, and decided to pursue a **postgraduate degree in Data Science**. I had the opportunity to work in data analysis for a year, focusing on **DataViz**, but my career gradually led me towards **IT team management**. 
 
 Now, as a **beginner Data Engineer** in progress, I’m reconnecting with my passion for data and focusing on building a strong foundation in Data Engineering. I’m constantly learning and evolving to transition into this field.
 
