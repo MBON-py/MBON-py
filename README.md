@@ -2,9 +2,7 @@
 
 ## 💻 About Me
 
-With a solid foundation in data analysis, complemented by over 3 years of experience as a technology coordinator and project manager, I possess a comprehensive understanding of the digital solutions lifecycle. My work involved managing people, processes, and budgets, always with a focus on the utilisation and validation of data as a cornerstone for strategic business decision-making.
-
-My *postgraduate studies in Big Data, Business Intelligence*, and Data Science have deepened my technical knowledge, and my practical experience as a Data Analyst has provided me with hands-on experience in data normalisation, visualisation (Power BI), and report automation. I have proficiency in Python (with libraries such as Pandas and NumPy), SQL for data manipulation, and I utilise Git and GitHub to manage my projects, which are available for viewing on my profile.
+My *postgraduate studies in Big Data, Business Intelligence*, and Data Science have deepened my technical knowledge, and my practical experience as a Data Analyst has provided me with hands-on experience in data normalisation, visualisation (Power BI), and report automation.
 
 Now, I am seeking a transition into the Data Engineering field, where I can combine my business and management expertise with my passion for working behind the scenes with data. I believe in the potential of reliable, high-quality data to drive significant results, and I am eager to contribute to building robust pipelines that deliver genuine value solutions to business areas, addressing the faults, gaps, and underutilisation that we often observe.
 
@@ -17,8 +15,6 @@ Join me on this journey! I’m open to suggestions, mentorship, advice, and, of 
 
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
