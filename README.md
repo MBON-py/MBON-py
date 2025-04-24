@@ -1,9 +1,12 @@
 # Hi there! 👋 I'm Maria Benussy  
 
 ## 💻 About Me
-I started studying data. I joined a few bootcamps, enjoyed the field, and decided to pursue a **postgraduate degree in Data Science**. I had the opportunity to work in data analysis for a year, focusing on **DataViz**, but my career gradually led me towards **IT team management**. 
 
-Now, as a **beginner Data Engineer** in progress, I’m reconnecting with my passion for data and focusing on building a strong foundation in Data Engineering. I’m constantly learning and evolving to transition into this field.
+With a solid foundation in data analysis, complemented by over 3 years of experience as a technology coordinator and project manager, I possess a comprehensive understanding of the digital solutions lifecycle. My work involved managing people, processes, and budgets, always with a focus on the utilisation and validation of data as a cornerstone for strategic business decision-making.
+
+My *postgraduate studies in Big Data, Business Intelligence*, and Data Science have deepened my technical knowledge, and my practical experience as a Data Analyst has provided me with hands-on experience in data normalisation, visualisation (Power BI), and report automation. I have proficiency in Python (with libraries such as Pandas and NumPy), SQL for data manipulation, and I utilise Git and GitHub to manage my projects, which are available for viewing on my profile.
+
+Now, I am seeking a transition into the Data Engineering field, where I can combine my business and management expertise with my passion for working behind the scenes with data. I believe in the potential of reliable, high-quality data to drive significant results, and I am eager to contribute to building robust pipelines that deliver genuine value solutions to business areas, addressing the faults, gaps, and underutilisation that we often observe.
 
 Join me on this journey! I’m open to suggestions, mentorship, advice, and, of course, *new opportunities*!
 
