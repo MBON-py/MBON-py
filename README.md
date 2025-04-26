@@ -8,7 +8,7 @@ Now, I am seeking a transition into the Data Engineering field, where I can comb
 
 Join me on this journey! I’m open to suggestions, mentorship, advice, and, of course, *new opportunities*!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MBON-py.MBON-py)
+![](https://komarev.com/ghpvc/?username=MBON-py&label=PROFILE+VIEWS)
 [![](https://img.shields.io/github/followers/MBON-py?color=27da6b&logo=Handshake)](https://github.com/MBON-py?tab=followers)
 
 ## 🛠 Tech Stack
